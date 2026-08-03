@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-s1k011.ajaib88nsi.cyou/sitemap.xml
